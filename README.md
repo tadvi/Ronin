@@ -1,4 +1,4 @@
-Sublime Text 2 Color Schemes
+# Sublime Text 2 Color Schemes
 Color schemes for the Sublime Text 2 code editor. To install...
 
 1. Download the .tmtheme file you're interested in.
@@ -8,3 +8,6 @@ Color schemes for the Sublime Text 2 code editor. To install...
 
 This scheme is based on Superhero color scheme.
 
+## Python Example
+
+![Python sample](https://raw.github.com/tadvi/Ronin/master/Ronin_screenshot.png)
