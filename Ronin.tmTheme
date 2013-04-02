@@ -10,9 +10,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#202836</string>
+				<string>#26313f</string>
 				<key>gutterForeground</key>
-				<string>#758fa4</string>
+				<string>#657f94</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -20,15 +20,17 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#151f27</string>
+				<string>#1b252c</string>
 				<key>selection</key>
 				<string>#4b677d</string>
+				<key>selectionBorder</key>
+				<string>#758fa4</string>
+
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
-				<key>selectionBorder</key>
-				<string>#758fa4</string>
+
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 				<key>bracketsForeground</key>
@@ -351,7 +353,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#232e3e</string>
+				<string>#26313f</string>
 				<key>foreground</key>
 				<string>#E9E9E5</string>
 			</dict>
