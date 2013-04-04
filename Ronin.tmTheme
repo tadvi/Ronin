@@ -11,8 +11,12 @@
 			<dict>
 				<key>background</key>
 				<string>#26313f</string>
+
+                <key>gutter</key>
+				<string>#1e2838</string>
 				<key>gutterForeground</key>
-				<string>#657f94</string>
+				<string>#657f94D0</string>
+
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -20,7 +24,7 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#1b252c</string>
+				<string>#10181f</string>
 				<key>selection</key>
 				<string>#4b677d</string>
 				<key>selectionBorder</key>
@@ -353,7 +357,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#26313f</string>
+				<string>##26313f</string>
 				<key>foreground</key>
 				<string>#E9E9E5</string>
 			</dict>
