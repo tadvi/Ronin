@@ -24,7 +24,7 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#10181f</string>
+				<string>#324032</string>
 				<key>selection</key>
 				<string>#4b677d</string>
 				<key>selectionBorder</key>
@@ -92,7 +92,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f38630</string>
+				<string>#77d82f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -427,7 +427,18 @@
 			</dict>
 		</dict>
 		<dict>
-		</dict>
+            <key>name</key>
+            <string>HTML: Tag Punctuation</string>
+            <key>scope</key>
+            <string>punctuation.definition.tag</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#A0A0A0</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>SublimeLinter Annotations</string>
